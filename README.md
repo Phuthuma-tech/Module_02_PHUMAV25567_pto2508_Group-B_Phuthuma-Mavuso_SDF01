@@ -69,7 +69,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Phuthuma-tech)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phuthuma-mavuso-3b60b6124)  
-📧 Email: [youremail@example.com](mailto:phuthumamavuso@gmail.com)
+📧 Email: [phuthumamavuso@gmail.com](mailto:phuthumamavuso@gmail.com)
 
 ---
 
