@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Phuthuma Mavuso
 
-🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
+🌱 Beginner Software Developer | 🚀 Excited to Learn & Build | 🌍 Working on Being a Game Changer
 
 ---
 
