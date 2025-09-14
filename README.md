@@ -1,5 +1,4 @@
 # Module_02_PHUMAV25567_pto2508_Group-B_Phuthuma-Mavuso_SDF01
-# [SDF01] Challenge: My First Repo 🚀
 
 # 👋 Hi, I'm Phuthuma Mavuso
 
